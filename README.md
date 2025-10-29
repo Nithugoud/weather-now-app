@@ -1,6 +1,16 @@
 # Weather Now 🌤️
 
+![React](https://img.shields.io/badge/React-18.2.0-blue)
+![CSS3](https://img.shields.io/badge/CSS3-Modern-green)  
+![API](https://img.shields.io/badge/API-Open--Meteo-orange)
+![Responsive](https://img.shields.io/badge/Design-Responsive-purple)
+
 A clean, responsive weather application built for outdoor enthusiasts like Jamie who need quick access to current weather conditions for any city around the world.
+
+## 🌐 Live Demo
+**[🚀 View Live Application](https://nithugoud.github.io/weather-now-app/)**
+
+*Experience the Weather Now app in action! Search for any city worldwide and get instant weather information.*
 
 ## 🎯 Purpose
 
